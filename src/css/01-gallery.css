@@ -3,6 +3,14 @@
   --animation-duration: 250ms;
 }
 
+ul {
+  list-style: none;
+}
+
+li {
+  list-style-type: none;
+  /* Убираем маркеры */
+} 
 
 .gallery {
   display: grid;
