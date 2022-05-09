@@ -10,7 +10,7 @@ ul {
 li {
   list-style-type: none;
   /* Убираем маркеры */
-} 
+}
 
 .gallery {
   display: grid;
